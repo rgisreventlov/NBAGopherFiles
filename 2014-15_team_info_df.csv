@@ -1,0 +1,129 @@
+,Abbreviations,Names,Image,Coach,Record,Loc,Playoff_App,Championships
+1,ATL,Atlanta Hawks,https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg,"7    M. Budenholzer (60-22)
+Name: Coaches, dtype: object","7    60
+Name: W, dtype: int64-7    22
+Name: L, dtype: int64","Atlanta, Georgia",47,1
+2,BKN,Brooklyn Nets,https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg,"7    L. Hollins (38-44)
+Name: Coaches, dtype: object","7    38
+Name: W, dtype: int64-7    44
+Name: L, dtype: int64","Brooklyn, New York","29
+  
+    (22 NBA & 7 ABA)",2
+3,BOS,Boston Celtics,https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg,"7    B. Stevens (40-42)
+Name: Coaches, dtype: object","7    40
+Name: W, dtype: int64-7    42
+Name: L, dtype: int64","Boston, Massachusetts",58,1
+4,CHA,Charlotte Hornets,https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg,"7    S. Clifford (33-49)
+Name: Coaches, dtype: object","7    33
+Name: W, dtype: int64-7    49
+Name: L, dtype: int64","Charlotte, North Carolina",10,0
+5,CHI,Chicago Bulls,https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg,"7    T. Thibodeau (50-32)
+Name: Coaches, dtype: object","7    50
+Name: W, dtype: int64-7    32
+Name: L, dtype: int64","Chicago, Illinois",35,6
+6,CLE,Cleveland Cavaliers,https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.svg,"7    D. Blatt (53-29)
+Name: Coaches, dtype: object","7    53
+Name: W, dtype: int64-7    29
+Name: L, dtype: int64","Cleveland, Ohio",22,1
+7,DAL,Dallas Mavericks,https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg,"7    R. Carlisle (50-32)
+Name: Coaches, dtype: object","7    50
+Name: W, dtype: int64-7    32
+Name: L, dtype: int64","Dallas, Texas",23,1
+8,DEN,Denver Nuggets,https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg,"7    B. Shaw (20-39), M. Hunt (10-13)
+Name: Coaches, dtype: object","7    30
+Name: W, dtype: int64-7    52
+Name: L, dtype: int64","Denver, Colorado","36
+  
+    (27 NBA & 9 ABA)",0
+9,DET,Detroit Pistons,https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg,"7    S. Van Gundy (32-50)
+Name: Coaches, dtype: object","7    32
+Name: W, dtype: int64-7    50
+Name: L, dtype: int64","Detroit, Michigan",42,3
+10,GSW,Golden State Warriors,https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg,"7    S. Kerr (67-15)
+Name: Coaches, dtype: object","7    67
+Name: W, dtype: int64-7    15
+Name: L, dtype: int64","San Francisco, California",35,6
+11,HOU,Houston Rockets,https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.svg,"7    K. McHale (56-26)
+Name: Coaches, dtype: object","7    56
+Name: W, dtype: int64-7    26
+Name: L, dtype: int64","Houston, Texas",34,2
+12,IND,Indiana Pacers,https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg,"7    F. Vogel (38-44)
+Name: Coaches, dtype: object","7    38
+Name: W, dtype: int64-7    44
+Name: L, dtype: int64","Indianapolis, Indiana","36
+  
+    (27 NBA & 9 ABA)",3
+13,LAC,Los Angeles Clippers,https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg,"7    D. Rivers (56-26)
+Name: Coaches, dtype: object","7    56
+Name: W, dtype: int64-7    26
+Name: L, dtype: int64","Los Angeles, California",16,0
+14,LAL,Los Angeles Lakers,https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg,"7    B. Scott (21-61)
+Name: Coaches, dtype: object","7    21
+Name: W, dtype: int64-7    61
+Name: L, dtype: int64","Los Angeles, California",62,1
+15,MEM,Memphis Grizzlies,https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.svg,"7    D. Joerger (55-27)
+Name: Coaches, dtype: object","7    55
+Name: W, dtype: int64-7    27
+Name: L, dtype: int64","Memphis, Tennessee",11,0
+16,MIA,Miami Heat,https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg,"7    E. Spoelstra (37-45)
+Name: Coaches, dtype: object","7    37
+Name: W, dtype: int64-7    45
+Name: L, dtype: int64","Miami, Florida",22,3
+17,MIL,Milwaukee Bucks,https://cdn.nba.com/logos/nba/1610612749/primary/L/logo.svg,"7    J. Kidd (41-41)
+Name: Coaches, dtype: object","7    41
+Name: W, dtype: int64-7    41
+Name: L, dtype: int64","Milwaukee, Wisconsin",33,2
+18,MIN,Minnesota Timberwolves,https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg,"7    F. Saunders (16-66)
+Name: Coaches, dtype: object","7    16
+Name: W, dtype: int64-7    66
+Name: L, dtype: int64","Minneapolis, Minnesota",9,0
+19,NOP,New Orleans Pelicans,https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg,"7    M. Williams (45-37)
+Name: Coaches, dtype: object","7    45
+Name: W, dtype: int64-7    37
+Name: L, dtype: int64","New Orleans, Louisiana",7,0
+20,NYK,New York Knicks,https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg,"7    D. Fisher (17-65)
+Name: Coaches, dtype: object","7    17
+Name: W, dtype: int64-7    65
+Name: L, dtype: int64","New York, New York",43,2
+21,OKC,Oklahoma City Thunder,https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.svg,"7    S. Brooks (45-37)
+Name: Coaches, dtype: object","7    45
+Name: W, dtype: int64-7    37
+Name: L, dtype: int64","Oklahoma City, Oklahoma",32,1
+22,ORL,Orlando Magic,https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg,"7    J. Vaughn (15-37), J. Borrego (10-20)
+Name: Coaches, dtype: object","7    25
+Name: W, dtype: int64-7    57
+Name: L, dtype: int64","Orlando, Florida",16,0
+23,PHI,Philadelphia 76ers,https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg,"7    B. Brown (18-64)
+Name: Coaches, dtype: object","7    18
+Name: W, dtype: int64-7    64
+Name: L, dtype: int64","Philadelphia, Pennsylvania",51,3
+24,PHX,Phoenix Suns,https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg,"7    J. Hornacek (39-43)
+Name: Coaches, dtype: object","7    39
+Name: W, dtype: int64-7    43
+Name: L, dtype: int64","Phoenix, Arizona",30,0
+25,POR,Portland Trail Blazers,https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.svg,"7    T. Stotts (51-31)
+Name: Coaches, dtype: object","7    51
+Name: W, dtype: int64-7    31
+Name: L, dtype: int64","Portland, Oregon",37,1
+26,SAC,Sacramento Kings,https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg,"7    M. Malone (11-13), T. Corbin (7-21), G. Karl (...
+Name: Coaches, dtype: object","7    29
+Name: W, dtype: int64-7    53
+Name: L, dtype: int64","Sacramento, California",29,1
+27,SAS,San Antonio Spurs,https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg,"7    G. Popovich (55-27)
+Name: Coaches, dtype: object","7    55
+Name: W, dtype: int64-7    27
+Name: L, dtype: int64","San Antonio, Texas","47
+  
+    (39 NBA & 8 ABA)",5
+28,TOR,Toronto Raptors,https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg,"7    D. Casey (49-33)
+Name: Coaches, dtype: object","7    49
+Name: W, dtype: int64-7    33
+Name: L, dtype: int64","Toronto, Canada",12,1
+29,UTA,Utah Jazz,https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg,"7    Q. Snyder (38-44)
+Name: Coaches, dtype: object","7    38
+Name: W, dtype: int64-7    44
+Name: L, dtype: int64","Salt Lake City, Utah",30,0
+30,WAS,Washington Wizards,https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg,"7    R. Wittman (46-36)
+Name: Coaches, dtype: object","7    46
+Name: W, dtype: int64-7    36
+Name: L, dtype: int64","Washington, District of Columbia",30,1

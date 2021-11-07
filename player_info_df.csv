@@ -18,7 +18,7 @@ DJ Augustin,0,14,"$7,000,000",Houston Rockets,G,11/10/1987,35,5-11 / 1.80,180 lb
 Deni Avdija,0,9,"$4,692,840",Washington Wizards,F,1/3/2001,20,6-9 / 2.06,210 lbs. / 95.3 kg.,1 9 2020
 Joel Ayayi,0,17,"$462,629",Washington Wizards,G,3/5/2000,21,6-5 / 1.96,180 lbs. / 81.6 kg.,-
 Deandre Ayton,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629028.png,22,"$12,632,950",Phoenix Suns,C,7/23/1998,23,6-11 / 2.11,250 lbs. / 113.4 kg.,1 1 2018
-Marvin Bagley III,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png,35,"$11,312,114",Sacramento Kings,F,3/14/1999,22,6-11 / 2.11,235 lbs. / 106.6 kg.,1 2 2018
+Marvin Bagley III,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png,35,-,-,-,3/14/1999,22,-,-,1 2 2018
 LaMelo Ball,0,2,"$8,231,760",Charlotte Hornets,G,8/22/2001,20,6-7 / 2.01,181 lbs. / 82.1 kg.,1 3 2020
 Lonzo Ball,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628366.png,2,"$18,604,651",Chicago Bulls,G,10/27/1997,24,6-6 / 1.98,190 lbs. / 86.2 kg.,1 2 2017
 Mo Bamba,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628964.png,5,"$7,568,743",Orlando Magic,C,5/12/1998,23,7-0 / 2.13,225 lbs. / 102.1 kg.,1 6 2018
@@ -77,7 +77,7 @@ Facundo Campazzo,0,7,"$3,200,000",Denver Nuggets,G,3/23/1991,30,5-11 / 1.80,195 
 Clint Capela,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png,15,"$18,603,448",Atlanta Hawks,C,5/18/1994,27,6-10 / 2.08,211 lbs. / 95.7 kg.,1 25 2014
 Vernon Carey Jr,0,22,"$1,517,981",Charlotte Hornets,C,2/25/2001,20,6-10 / 2.08,270 lbs. / 122.5 kg.,2 32 2020
 Jevon Carter,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628975.png,3,"$3,650,000",Brooklyn Nets,G,9/14/1995,26,6-1 / 1.85,200 lbs. / 90.7 kg.,2 32 2018
-Wendell Carter Jr,0,34,"$6,920,027",Orlando Magic,C,4/16/1999,22,6-9 / 2.06,259 lbs. / 117.5 kg.,1 7 2018
+Wendell Carter Jr,0,34,-,-,-,4/16/1999,22,-,-,1 7 2018
 Alex Caruso,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627936.png,4,"$8,600,000",Chicago Bulls,G,2/28/1994,27,6-5 / 1.96,186 lbs. / 84.4 kg.,-
 Willie Cauley-Stein,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626161.png,00,"$4,100,000",Dallas Mavericks,C,8/18/1993,28,7-0 / 2.13,242 lbs. / 109.8 kg.,1 6 2015
 Justin Champagnie,0,11,"$462,629",Toronto Raptors,F,6/29/2001,20,6-6 / 1.98,200 lbs. / 90.7 kg.,-
@@ -159,7 +159,7 @@ Blake Griffin,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/lat
 Quentin Grimes,0,6,"$2,168,640",New York Knicks,G,5/8/2000,21,6-5 / 1.96,205 lbs. / 93 kg.,1 25 2021
 Tyrese Haliburton,0,0,"$4,023,600",Sacramento Kings,G,2/29/2000,21,6-5 / 1.96,175 lbs. / 79.4 kg.,1 12 2020
 RJ Hampton,0,13,"$2,303,040",Orlando Magic,G,2/7/2001,20,6-6 / 1.98,195 lbs. / 88.5 kg.,1 24 2020
-Tim Hardaway Jr,0,5,"$46,661,390 ($74,567,857*)",,-,3/16/1992,29,6-0 / 1.83,195 lbs. / 88.5 kg.,1 24 2013
+Tim Hardaway Jr,0,5,"$21,306,816",Dallas Mavericks,G,3/16/1992,29,6-5 / 1.96,199 lbs. / 90.3 kg.,1 24 2013
 James Harden,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png,13,"$44,310,840",Brooklyn Nets,G,8/26/1989,32,6-5 / 1.96,220 lbs. / 99.8 kg.,1 3 2009
 Maurice Harkless,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203090.png,21,-,-,-,5/11/1993,28,-,-,1 15 2012
 Montrezl Harrell,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626149.png,35,"$9,720,900",Washington Wizards,F-C,1/26/1994,27,6-7 / 2.01,253 lbs. / 114.8 kg.,2 32 2015
@@ -213,7 +213,7 @@ James Johnson,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/lat
 Keldon Johnson,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629640.png,3,"$2,145,720",San Antonio Spurs,F,10/11/1999,22,6-5 / 1.96,211 lbs. / 95.7 kg.,1 29 2019
 Nikola Jokic,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png,15,"$31,579,390",Denver Nuggets,C,2/19/1995,26,7-0 / 2.13,253 lbs. / 114.8 kg.,2 41 2014
 Damian Jones,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627745.png,15,"$1,977,011",Sacramento Kings,C,6/30/1995,26,6-11 / 2.11,240 lbs. / 108.9 kg.,1 30 2016
-Derrick Jones Jr,0,10,"$9,720,900",Chicago Bulls,F,2/15/1997,24,6-6 / 1.98,195 lbs. / 88.5 kg.,-
+Derrick Jones Jr,0,10,-,-,-,2/15/1997,24,-,-,-
 Herb Jones,0,-,"$1,700,000",New Orleans Pelicans,F,-,-,6-8 / 2.03,206 lbs. / 93.4 kg.,-
 Kai Jones,0,23,"$2,770,560",Charlotte Hornets,F,1/19/2001,20,6-11 / 2.11,212 lbs. / 96.2 kg.,1 19 2021
 Tre Jones,0,33,"$1,517,981",San Antonio Spurs,G,1/8/2000,21,6-3 / 1.91,185 lbs. / 83.9 kg.,2 41 2020
@@ -263,7 +263,7 @@ Naji Marshall,0,8,"$1,517,981",New Orleans Pelicans,F,1/24/1998,23,6-7 / 2.01,22
 Caleb Martin,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628997.png,10,"$462,629",Miami Heat,F,9/28/1995,26,6-5 / 1.96,205 lbs. / 93 kg.,-
 Cody Martin,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628998.png,11,"$1,782,621",Charlotte Hornets,F,9/28/1995,26,6-5 / 1.96,205 lbs. / 93 kg.,2 36 2019
 Kelan Martin,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629103.png,30,"$1,701,593",Indiana Pacers,F,8/3/1995,26,6-5 / 1.96,230 lbs. / 104.3 kg.,-
-Kenyon Martin Jr,0,6,"$113,431,519 ($143,196,816*)",,-,1/6/2001,20,6-9 / 2.06,233 lbs. / 106.1 kg.,2 52 2020
+Kenyon Martin Jr,0,6,-,-,-,1/6/2001,20,-,-,2 52 2020
 Tyrese Maxey,0,0,"$2,602,920",Philadelphia 76ers,G,11/4/2000,21,6-3 / 1.91,200 lbs. / 90.7 kg.,1 21 2020
 Skylar Mays,0,4,"$462,629",Atlanta Hawks,G,9/5/1997,24,6-4 / 1.93,205 lbs. / 93 kg.,2 50 2020
 Miles McBride,0,2,"$925,258",New York Knicks,G,9/8/2000,21,6-2 / 1.88,196 lbs. / 88.9 kg.,2 36 2021
@@ -299,7 +299,7 @@ Dejounte Murray,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/l
 Mike Muscala,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png,31,"$3,500,000",Oklahoma City Thunder,F-C,7/1/1991,30,6-10 / 2.08,230 lbs. / 104.3 kg.,2 44 2013
 Svi Mykhailiuk,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png,10,-,-,-,6/10/1997,24,-,-,2 47 2018
 Abdel Nader,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627846.png,28,"$2,000,000",Phoenix Suns,F,9/25/1993,28,6-5 / 1.96,225 lbs. / 102.1 kg.,2 58 2016
-Larry Nance Jr,0,7,"$8,238,000 ($15,257,087*)",,-,1/1/1993,28,-,-,1 27 2015
+Larry Nance Jr,0,7,"$10,690,909",Portland Trail Blazers,F,1/1/1993,28,6-7 / 2.01,227 lbs. / 103 kg.,1 27 2015
 RJ Nembhard,0,5,"$462,629",Cleveland Cavaliers,F,3/22/1999,22,6-5 / 1.96,200 lbs. / 90.7 kg.,-
 Aaron Nesmith,0,26,"$3,631,200",Boston Celtics,G-F,10/16/1999,22,6-6 / 1.98,213 lbs. / 96.6 kg.,1 14 2020
 Raul Neto,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203526.png,25,"$2,089,448",Washington Wizards,G,5/19/1992,29,6-1 / 1.85,170 lbs. / 77.1 kg.,2 47 2013
@@ -321,21 +321,21 @@ Kelly Olynyk,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/late
 Eugene Omoruyi,0,2,-,-,-,2/14/1997,24,-,-,-
 Miye Oni,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629671.png,24,"$1,782,621",Utah Jazz,F,8/4/1997,24,6-5 / 1.96,210 lbs. / 95.3 kg.,2 58 2019
 Cedi Osman,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626224.png,16,"$8,133,334",Cleveland Cavaliers,F-G,4/8/1995,26,6-7 / 2.01,215 lbs. / 97.5 kg.,2 31 2015
-Kelly Oubre Jr,0,-,"$12,000,000",Charlotte Hornets,F,-,-,6-7 / 2.01,203 lbs. / 92.1 kg.,-
+Kelly Oubre Jr,0,-,-,-,-,-,-,-,-,-
 Kevin Pangos,0,6,"$1,669,178",Cleveland Cavaliers,G,1/26/1993,28,6-2 / 1.88,185 lbs. / 83.9 kg.,-
 Jabari Parker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203953.png,12,"$100,000",,-,3/15/1995,26,6-8 / 2.03,235 lbs. / 106.6 kg.,1 2 2014
 Eric Paschall,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629672.png,7,"$1,782,621",Utah Jazz,F,11/4/1996,25,6-6 / 1.98,255 lbs. / 115.7 kg.,2 41 2019
 Chris Paul,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png,3,"$30,800,000",Phoenix Suns,G,5/6/1985,36,6-1 / 1.85,175 lbs. / 79.4 kg.,1 4 2005
 Cameron Payne,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626166.png,22,"$6,500,000",Phoenix Suns,G,8/8/1994,27,6-2 / 1.88,180 lbs. / 81.6 kg.,1 14 2015
 Elfrid Payton,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203901.png,4,"$2,239,544",Phoenix Suns,G,2/22/1994,27,6-3 / 1.91,185 lbs. / 83.9 kg.,1 10 2014
-Gary Payton II,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627780.png,0,"$104,367,619 ($161,302,927*)",,-,12/1/1992,30,6-4 / 1.93,179 lbs. / 81.6 kg.,-
+Gary Payton II,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627780.png,0,"$1,669,178",Golden State Warriors,G,12/1/1992,30,6-3 / 1.91,175 lbs. / 79.4 kg.,-
 Jamorko Pickett,0,24,"$462,629",Detroit Pistons,F,12/24/1997,25,6-8 / 2.03,198 lbs. / 89.8 kg.,-
 Mason Plumlee,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png,1,"$9,248,333",Charlotte Hornets,C-F,3/5/1990,31,6-11 / 2.11,238 lbs. / 108 kg.,1 22 2013
 Jakob Poeltl,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png,42,"$8,750,000",San Antonio Spurs,C-F,10/15/1995,26,7-1 / 2.16,239 lbs. / 108.4 kg.,1 9 2016
 Aleksej Pokusevski,0,17,"$3,113,160",Oklahoma City Thunder,F,12/26/2001,21,7-0 / 2.13,190 lbs. / 86.2 kg.,1 17 2020
 Jordan Poole,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png,3,"$2,161,440",Golden State Warriors,G,6/19/1999,22,6-4 / 1.93,194 lbs. / 88 kg.,1 28 2019
 Kevin Porter Jr,0,4,"$1,782,621",Houston Rockets,G-F,5/4/2000,21,6-4 / 1.93,218 lbs. / 98.9 kg.,1 30 2019
-Michael Porter Jr,0,1,"$5,258,735",Denver Nuggets,F,6/29/1998,23,6-10 / 2.08,215 lbs. / 97.5 kg.,1 14 2018
+Michael Porter Jr,0,1,-,-,-,6/29/1998,23,-,-,1 14 2018
 Otto Porter,0,22,"$2,389,641",Golden State Warriors,F,6/3/1993,28,6-8 / 2.03,198 lbs. / 89.8 kg.,1 3 2013
 Bobby Portis,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626171.png,5,"$4,347,600",Milwaukee Bucks,F-C,2/10/1995,26,6-10 / 2.08,246 lbs. / 111.6 kg.,1 22 2015
 Kristaps Porzingis,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png,6,"$31,650,600",Dallas Mavericks,F-C,8/2/1995,26,7-3 / 2.21,220 lbs. / 99.8 kg.,1 4 2015
@@ -376,7 +376,7 @@ Day'Ron Sharpe,0,-,"$2,009,160",Brooklyn Nets,F,-,-,6-11 / 2.11,246 lbs. / 111.6
 Anfernee Simons,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png,24,"$3,938,818",Portland Trail Blazers,G,6/8/1999,22,6-3 / 1.91,181 lbs. / 82.1 kg.,1 24 2018
 Jericho Sims,0,45,"$462,629",New York Knicks,C,10/20/1998,23,6-10 / 2.08,240 lbs. / 108.9 kg.,2 58 2021
 Marcus Smart,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203935.png,36,"$14,339,285",Boston Celtics,G,3/6/1994,27,6-3 / 1.91,227 lbs. / 103 kg.,1 6 2014
-Dennis Smith Jr,0,1,"$1,789,256",Portland Trail Blazers,G,11/25/1997,25,6-2 / 1.88,195 lbs. / 88.5 kg.,1 9 2017
+Dennis Smith Jr,0,1,-,-,-,11/25/1997,25,-,-,1 9 2017
 Ish Smith,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202397.png,-,-,-,-,-,-,-,-,-
 Jalen Smith,0,10,"$4,458,000",Phoenix Suns,F,3/16/2000,21,6-10 / 2.08,225 lbs. / 102.1 kg.,1 10 2020
 Tony Snell,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203503.png,20,"$2,389,641",Portland Trail Blazers,F,11/10/1991,31,6-6 / 1.98,198 lbs. / 89.8 kg.,1 20 2013
@@ -400,7 +400,7 @@ Isaiah Todd,0,14,"$1,500,000",Washington Wizards,F-C,10/17/2001,20,6-10 / 2.08,2
 Obi Toppin,0,1,"$5,105,160",New York Knicks,F,3/4/1998,23,6-9 / 2.06,220 lbs. / 99.8 kg.,1 8 2020
 Juan Toscano-Anderson,0,95,"$1,701,593",Golden State Warriors,F,4/10/1993,28,6-6 / 1.98,209 lbs. / 94.8 kg.,-
 Karl-Anthony Towns,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png,32,"$31,650,600",Minnesota Timberwolves,F-C,11/15/1995,27,6-11 / 2.11,248 lbs. / 112.5 kg.,1 1 2015
-Gary Trent Jr,0,9,"$11,406,473 ($17,608,552*)",,-,1/18/1999,22,6-8 / 2.03,250 lbs. / 113.4 kg.,2 37 2018
+Gary Trent Jr,0,9,"$16,000,000",Toronto Raptors,G,1/18/1999,22,6-5 / 1.96,209 lbs. / 94.8 kg.,2 37 2018
 PJ Tucker,0,1,"$7,000,000",Miami Heat,F,5/5/1985,36,6-5 / 1.96,225 lbs. / 102.1 kg.,2 35 2006
 Myles Turner,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png,33,"$18,000,000",Indiana Pacers,F-C,3/24/1996,25,6-11 / 2.11,239 lbs. / 108.4 kg.,1 11 2015
 Jonas Valanciunas,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png,17,"$14,000,000",New Orleans Pelicans,C,5/6/1992,29,6-11 / 2.11,231 lbs. / 104.8 kg.,1 5 2011
@@ -416,7 +416,7 @@ Moritz Wagner,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/lat
 Kemba Walker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202689.png,1,"$34,967,442",New York Knicks,G,5/8/1990,31,6-0 / 1.83,172 lbs. / 78 kg.,1 9 2011
 Lonnie Walker,0,1,"$4,453,617",San Antonio Spurs,G,12/14/1998,24,6-5 / 1.96,204 lbs. / 92.5 kg.,1 18 2018
 Brad Wanamaker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202954.png,9,"$1,729,217",Indiana Pacers,G,7/25/1989,32,6-3 / 1.91,210 lbs. / 95.3 kg.,-
-Duane Washington Jr,0,4,-,-,-,3/24/2000,21,-,-,-
+Duane Washington Jr,0,4,"$462,629",Indiana Pacers,G,3/24/2000,21,6-3 / 1.91,210 lbs. / 95.3 kg.,-
 PJ Washington,0,25,"$4,215,120",Charlotte Hornets,F,8/23/1998,23,6-7 / 2.01,225 lbs. / 102.1 kg.,1 12 2019
 Russell Westbrook,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png,0,"$44,211,146",Los Angeles Lakers,G,11/12/1988,34,6-3 / 1.91,190 lbs. / 86.2 kg.,1 4 2008
 Derrick White,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png,4,"$15,678,571",San Antonio Spurs,G,7/2/1994,27,6-4 / 1.93,200 lbs. / 90.7 kg.,1 29 2017

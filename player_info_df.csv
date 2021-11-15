@@ -2,12 +2,12 @@ Player,Image,Number,Salary,Tm,Pos,Birthday,Age,height,weight,Draft
 Precious Achiuwa,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630173.png,5,"$5,551,440",Toronto Raptors,Forward,9/19/1999,22,"6'8"" (2.03m)",225lb (102kg),1 20 2020
 Steven Adams,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png,4,"$35,000,000",Memphis Grizzlies,Center,7/20/1993,28,"6'11"" (2.11m)",265lb (120kg),1 12 2013
 Bam Adebayo,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png,13,"$163,000,590",Miami Heat,Center-Forward,7/18/1997,24,"6'9"" (2.06m)",255lb (116kg),1 14 2017
-Santi Aldama,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630583.png,7,"$4,088,760",Memphis Grizzlies,Forward-Center,1/10/2001,20,"6'11"" (2.11m)",215lb (98kg),1 30 2021
+Santi Aldama,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630583.png,7,"$4,088,760",-,-,1/10/2001,-,-,215lb (98kg),1 30 2021
 LaMarcus Aldridge,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200746.png,21,"$2,641,691",Brooklyn Nets,Center-Forward,7/19/1985,36,"6'11"" (2.11m)",250lb (113kg),1 2 2006
 Nickeil Alexander-Walker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629638.png,6,"$8,271,113",New Orleans Pelicans,Guard,9/2/1998,23,"6'5"" (1.96m)",205lb (93kg),1 17 2019
 Grayson Allen,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png,7,"$24,054,695",Milwaukee Bucks,Guard,10/8/1995,26,"6'4"" (1.93m)",198lb (90kg),1 21 2018
 Jarrett Allen,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png,31,"$100,000,000",Cleveland Cavaliers,Center,4/21/1998,23,"6'10"" (2.08m)",243lb (110kg),1 22 2017
-Jose Alvarado,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630631.png,15,,New Orleans Pelicans,Guard,4/12/1998,23,"6'0"" (1.83m)",179lb (81kg),- - -
+Jose Alvarado,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630631.png,15,,-,Guard,4/12/1998,23,"6'0"" (1.83m)",179lb (81kg),- - -
 Kyle Anderson,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203937.png,1,"$9,937,150",Memphis Grizzlies,Forward-Guard,9/20/1993,28,"6'9"" (2.06m)",230lb (104kg),1 30 2014
 Giannis Antetokounmpo,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203507.png,34,"$176,265,466",Milwaukee Bucks,Forward,12/6/1994,26,"6'11"" (2.11m)",242lb (110kg),1 15 2013
 Thanasis Antetokounmpo,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203648.png,43,"$1,729,217",Milwaukee Bucks,Forward,7/18/1992,29,"6'6"" (1.98m)",219lb (99kg),2 51 2014
@@ -30,7 +30,7 @@ Scottie Barnes,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/la
 RJ Barrett,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629628.png,9,"$19,524,555",New York Knicks,Forward-Guard,6/14/2000,21,"6'6"" (1.98m)",214lb (97kg),1 3 2019
 Will Barton,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203115.png,5,"$32,000,000",Denver Nuggets,Guard,1/6/1991,30,"6'5"" (1.96m)",181lb (82kg),2 40 2012
 Charles Bassey,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629646.png,23,"$1,000,000",Philadelphia 76ers,Center-Forward,10/28/2000,21,"6'9"" (2.06m)",230lb (104kg),2 53 2021
-Keita Bates-Diop,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628966.png,31,"$1,729,217",San Antonio Spurs,Forward,1/23/1996,25,"6'8"" (2.03m)",229lb (104kg),2 48 2018
+Keita Bates-Diop,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628966.png,-,"$1,729,217",-,-,-,-,-,-,-
 Nicolas Batum,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201587.png,33,"$18,086,956",LA Clippers,Guard-Forward,12/14/1988,32,"6'8"" (2.03m)",230lb (104kg),1 25 2008
 Kent Bazemore,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203145.png,9,"$2,401,537",Los Angeles Lakers,Guard-Forward,7/1/1989,32,"6'4"" (1.93m)",195lb (88kg),- - -
 Darius Bazley,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629647.png,7,"$6,777,669",Oklahoma City Thunder,Forward,6/12/2000,21,"6'8"" (2.03m)",208lb (94kg),1 23 2019
@@ -181,7 +181,7 @@ Aaron Henry,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/lates
 Juan Hernangomez,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/None.png,-,"$7,012,440",-,-,-,-,-,-,-
 Willy Hernangomez,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626195.png,9,"$4,770,801",New Orleans Pelicans,Center-Forward,5/27/1994,27,"6'11"" (2.11m)",250lb (113kg),2 35 2015
 Tyler Herro,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629639.png,14,"$9,726,396",Miami Heat,Guard,1/20/2000,21,"6'5"" (1.96m)",195lb (88kg),1 13 2019
-Buddy Hield,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png,24,"$61,568,182",Sacramento Kings,Guard,12/17/1992,28,"6'4"" (1.93m)",220lb (100kg),1 6 2016
+Buddy Hield,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png,24,"$61,568,182",-,Guard,12/17/1992,28,"6'4"" (1.93m)",220lb (100kg),1 6 2016
 George Hill,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201588.png,3,"$8,000,000",Milwaukee Bucks,Guard,5/4/1986,35,"6'4"" (1.93m)",188lb (85kg),1 26 2008
 Solomon Hill,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203524.png,18,"$2,389,641",Atlanta Hawks,Forward,3/18/1991,30,"6'6"" (1.98m)",226lb (103kg),1 23 2013
 Aaron Holiday,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png,4,"$3,980,551",Washington Wizards,Guard,9/30/1996,25,"6'0"" (1.83m)",185lb (84kg),1 23 2018
@@ -190,6 +190,7 @@ Justin Holiday,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/la
 Richaun Holmes,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png,22,"$33,645,780",Sacramento Kings,Forward,10/15/1993,28,"6'10"" (2.08m)",235lb (107kg),2 37 2015
 Rodney Hood,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203918.png,5,"$2,239,544",Milwaukee Bucks,Guard-Forward,10/20/1992,29,"6'8"" (2.03m)",208lb (94kg),1 23 2014
 Al Horford,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201143.png,42,"$41,500,000",Boston Celtics,Center-Forward,6/3/1986,35,"6'9"" (2.06m)",240lb (109kg),1 3 2007
+Talen Horton-Tucker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629659.png,5,"$19,760,000",Los Angeles Lakers,Guard,11/25/2000,20,"6'4"" (1.93m)",234lb (106kg),2 46 2019
 Danuel House,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/None.png,-,"$3,894,000",-,-,-,-,-,-,-
 Dwight Howard,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2730.png,39,"$2,641,691",Los Angeles Lakers,Center-Forward,12/8/1985,35,"6'10"" (2.08m)",265lb (120kg),1 1 2004
 Markus Howard,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630210.png,00,,Denver Nuggets,Guard,3/3/1999,22,"5'10"" (1.78m)",175lb (79kg),- - -
@@ -410,7 +411,7 @@ Xavier Tillman Sr,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba
 Isaiah Todd,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630225.png,14,"$4,899,614",Washington Wizards,Forward,10/17/2001,20,"6'9"" (2.06m)",219lb (99kg),2 31 2021
 Obi Toppin,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630167.png,1,"$10,453,440",New York Knicks,Forward,3/4/1998,23,"6'9"" (2.06m)",220lb (100kg),1 8 2020
 Juan Toscano-Anderson,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629308.png,95,"$1,701,593",Golden State Warriors,Forward,4/10/1993,28,"6'6"" (1.98m)",209lb (95kg),- - -
-Karl-Anthony Towns,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png,32,"$101,370,000",Minnesota Timberwolves,Center-Forward,11/15/1995,25,"6'11"" (2.11m)",248lb (112kg),1 1 2015
+Karl-Anthony Towns,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png,32,"$101,370,000",Minnesota Timberwolves,Center-Forward,11/15/1995,26,"6'11"" (2.11m)",248lb (112kg),1 1 2015
 Gary Trent Jr,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629018.png,33,"$33,280,000",Toronto Raptors,Guard-Forward,1/18/1999,22,"6'5"" (1.96m)",209lb (95kg),2 37 2018
 PJ Tucker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200782.png,17,"$7,000,000",Miami Heat,Forward,5/5/1985,36,"6'5"" (1.96m)",245lb (111kg),2 35 2006
 Myles Turner,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png,33,"$36,000,000",Indiana Pacers,Center-Forward,3/24/1996,25,"6'11"" (2.11m)",250lb (113kg),1 11 2015
@@ -429,10 +430,12 @@ Lonnie Walker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/lat
 Brad Wanamaker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202954.png,10,,Indiana Pacers,Guard,7/25/1989,32,"6'3"" (1.91m)",210lb (95kg),- - -
 Duane Washington Jr,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630613.png,4,,Indiana Pacers,Guard,3/24/2000,21,"6'3"" (1.91m)",197lb (89kg),- - -
 PJ Washington,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629023.png,25,"$10,023,555",Charlotte Hornets,Forward,8/23/1998,23,"6'7"" (2.01m)",230lb (104kg),1 12 2019
+Trendon Watford,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630570.png,2,,Portland Trail Blazers,Forward,11/9/2000,21,"6'8"" (2.03m)",237lb (108kg),- - -
 Russell Westbrook,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png,0,"$44,211,146",Los Angeles Lakers,Guard,11/12/1988,33,"6'3"" (1.91m)",200lb (91kg),1 4 2008
 Derrick White,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png,4,"$68,000,000",San Antonio Spurs,Guard,7/2/1994,27,"6'4"" (1.93m)",190lb (86kg),1 29 2017
 Hassan Whiteside,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202355.png,21,"$2,401,537",Utah Jazz,Center,6/13/1989,32,"7'0"" (2.13m)",265lb (120kg),2 33 2010
 Joe Wieskamp,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630580.png,15,,San Antonio Spurs,Guard-Forward,8/23/1999,22,"6'6"" (1.98m)",205lb (93kg),2 41 2021
+Aaron Wiggins,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630598.png,21,,Oklahoma City Thunder,Guard,1/2/1999,22,"6'4"" (1.93m)",190lb (86kg),2 55 2021
 Andrew Wiggins,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png,22,"$65,196,160",Golden State Warriors,Forward,2/23/1995,26,"6'7"" (2.01m)",197lb (89kg),1 1 2014
 Grant Williams,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629684.png,12,"$6,924,081",Boston Celtics,Forward,11/30/1998,22,"6'6"" (1.98m)",236lb (107kg),1 22 2019
 Kenrich Williams,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629026.png,34,,Oklahoma City Thunder,Guard-Forward,12/2/1994,26,"6'6"" (1.98m)",210lb (95kg),- - -

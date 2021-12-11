@@ -3,7 +3,7 @@ Precious Achiuwa,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/
 Steven Adams,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png,4,"$35,000,000",Memphis Grizzlies,Center,7/20/1993,28,"6'11"" (2.11m)",265lb (120kg),1 12 2013
 Bam Adebayo,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png,13,"$163,000,590",Miami Heat,Center-Forward,7/18/1997,24,"6'9"" (2.06m)",255lb (116kg),1 14 2017
 Santi Aldama,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630583.png,7,"$4,088,760",Memphis Grizzlies,Forward-Center,1/10/2001,20,"6'11"" (2.11m)",215lb (98kg),1 30 2021
-LaMarcus Aldridge,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200746.png,21,"$2,641,691",Brooklyn Nets,Center-Forward,7/19/1985,36,"6'11"" (2.11m)",250lb (113kg),1 2 2006
+LaMarcus Aldridge,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200746.png,21,"$2,641,691",-,Center-Forward,7/19/1985,36,"6'11"" (2.11m)",250lb (113kg),1 2 2006
 Nickeil Alexander-Walker,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629638.png,6,"$8,271,113",New Orleans Pelicans,Guard,9/2/1998,23,"6'5"" (1.96m)",205lb (93kg),1 17 2019
 Grayson Allen,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png,7,"$24,054,695",Milwaukee Bucks,Guard,10/8/1995,26,"6'4"" (1.93m)",198lb (90kg),1 21 2018
 Jarrett Allen,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png,31,"$100,000,000",Cleveland Cavaliers,Center,4/21/1998,23,"6'10"" (2.08m)",243lb (110kg),1 22 2017
@@ -60,7 +60,7 @@ Ignas Brazdeikis,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/
 Mikal Bridges,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png,25,"$95,557,725",Phoenix Suns,Forward,8/30/1996,25,"6'6"" (1.98m)",209lb (95kg),1 10 2018
 Miles Bridges,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png,0,"$5,421,493",Charlotte Hornets,Forward,3/21/1998,23,"6'7"" (2.01m)",225lb (102kg),1 12 2018
 Oshae Brissett,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629052.png,12,,Indiana Pacers,Forward-Guard,6/20/1998,23,"6'7"" (2.01m)",210lb (95kg),- - -
-Malcolm Brogdon,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png,7,"$89,300,000",Indiana Pacers,Guard,12/11/1992,28,"6'5"" (1.96m)",229lb (104kg),2 36 2016
+Malcolm Brogdon,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png,7,"$89,300,000",Indiana Pacers,Guard,12/11/1992,29,"6'5"" (1.96m)",229lb (104kg),2 36 2016
 Armoni Brooks,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629717.png,7,"$1,489,065",Houston Rockets,Guard,6/5/1998,23,"6'3"" (1.91m)",195lb (88kg),-
 Dillon Brooks,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628415.png,24,"$23,600,000",Memphis Grizzlies,Guard-Forward,1/22/1996,25,"6'7"" (2.01m)",225lb (102kg),2 45 2017
 Bruce Brown,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628971.png,1,"$4,736,102",Brooklyn Nets,Guard-Forward,8/15/1996,25,"6'4"" (1.93m)",202lb (92kg),2 42 2018
@@ -88,6 +88,7 @@ Willie Cauley-Stein,https://ak-static.cms.nba.com/wp-content/uploads/headshots/n
 Justin Champagnie,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630551.png,11,,Toronto Raptors,Guard-Forward,6/29/2001,20,"6'6"" (1.98m)",206lb (93kg),- - -
 Chris Chiozza,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629185.png,2,,Golden State Warriors,Guard,11/21/1995,26,"5'11"" (1.80m)",175lb (79kg),- - -
 Josh Christopher,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630528.png,9,"$4,631,400",Houston Rockets,Guard,12/8/2001,20,"6'3"" (1.91m)",215lb (98kg),1 24 2021
+Gary Clark,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629109.png,12,"$2,100,000",New Orleans Pelicans,Forward,11/16/1994,27,"6'6"" (1.98m)",225lb (102kg),- - -
 Brandon Clarke,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629634.png,15,"$7,070,800",Memphis Grizzlies,Forward,9/19/1996,25,"6'8"" (2.03m)",215lb (98kg),1 21 2019
 Jordan Clarkson,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203903.png,00,"$25,760,000",Utah Jazz,Guard,6/7/1992,29,"6'4"" (1.93m)",194lb (88kg),2 46 2014
 Nicolas Claxton,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/None.png,-,"$1,782,621",-,-,-,-,-,-,-
@@ -250,6 +251,7 @@ Kevin Knox,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest
 John Konchar,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629723.png,46,"$6,906,977",Memphis Grizzlies,Guard,3/22/1996,25,"6'5"" (1.96m)",210lb (95kg),- - -
 Furkan Korkmaz,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627788.png,30,"$15,000,000",Philadelphia 76ers,Guard-Forward,7/24/1997,24,"6'7"" (2.01m)",202lb (92kg),1 26 2016
 Vit Krejci,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630249.png,27,"$1,707,017",Oklahoma City Thunder,Guard,6/19/2000,21,"6'8"" (2.03m)",195lb (88kg),2 37 2020
+Arnoldas Kulboka,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629083.png,98,,Charlotte Hornets,Forward,1/4/1998,23,"6'10"" (2.08m)",209lb (95kg),2 55 2018
 Jonathan Kuminga,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630228.png,00,"$11,206,320",Golden State Warriors,Forward,10/6/2002,19,"6'7"" (2.01m)",225lb (102kg),1 7 2021
 Kyle Kuzma,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png,33,"$26,000,000",Washington Wizards,Forward,7/24/1995,26,"6'9"" (2.06m)",221lb (100kg),1 27 2017
 Jeremy Lamb,https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203087.png,26,"$10,500,000",Indiana Pacers,Guard-Forward,5/30/1992,29,"6'5"" (1.96m)",180lb (82kg),1 12 2012
